@@ -1,0 +1,96 @@
+\tocentry{1}{}{Preface}{3}
+\tocentry{1}{1}{Enter Scheme}{4}
+\tocentry{1}{2}{Data types}{6}
+\tocentry{2}{2.1}{Simple data types}{7}
+\tocentry{3}{2.1.1}{Booleans}{7}
+\tocentry{3}{2.1.2}{Numbers}{7}
+\tocentry{3}{2.1.3}{Characters}{8}
+\tocentry{3}{2.1.4}{Symbols}{9}
+\tocentry{2}{2.2}{Compound data types}{10}
+\tocentry{3}{2.2.1}{Strings}{10}
+\tocentry{3}{2.2.2}{Vectors}{11}
+\tocentry{3}{2.2.3}{Dotted pairs and lists}{11}
+\tocentry{3}{2.2.4}{Conversions between data types}{13}
+\tocentry{2}{2.3}{Other data types}{14}
+\tocentry{2}{2.4}{S-expressions}{14}
+\tocentry{1}{3}{Forms}{14}
+\tocentry{2}{3.1}{Procedures}{15}
+\tocentry{3}{3.1.1}{Procedure parameters}{15}
+\tocentry{3}{3.1.2}{Variable number of arguments}{16}
+\tocentry{2}{3.2}{\q{apply}}{16}
+\tocentry{2}{3.3}{Sequencing}{16}
+\tocentry{1}{4}{Conditionals}{17}
+\tocentry{2}{4.1}{\q{when} and \q{unless}}{18}
+\tocentry{2}{4.2}{\q{cond}}{19}
+\tocentry{2}{4.3}{\q{case}}{19}
+\tocentry{2}{4.4}{\q{and} and \q{or}}{19}
+\tocentry{1}{5}{Lexical variables}{20}
+\tocentry{2}{5.1}{\q{let} and \q{let*}}{22}
+\tocentry{2}{5.2}{\q{fluid-let}}{23}
+\tocentry{1}{6}{Recursion}{23}
+\tocentry{2}{6.1}{\q{letrec}}{24}
+\tocentry{2}{6.2}{Named \q{let}}{25}
+\tocentry{2}{6.3}{Iteration}{25}
+\tocentry{2}{6.4}{Mapping a procedure across a list}{26}
+\tocentry{1}{7}{I/O}{26}
+\tocentry{2}{7.1}{Reading}{27}
+\tocentry{2}{7.2}{Writing}{27}
+\tocentry{2}{7.3}{File ports}{27}
+\tocentry{3}{7.3.1}{Automatic opening and closing of file ports}{28}
+\tocentry{2}{7.4}{String ports}{28}
+\tocentry{2}{7.5}{Loading files}{29}
+\tocentry{1}{8}{Macros}{29}
+\tocentry{2}{8.1}{Specifying the expansion as a template}{31}
+\tocentry{2}{8.2}{Avoiding variable capture inside macros}{32}
+\tocentry{2}{8.3}{\q{fluid-let}}{33}
+\tocentry{1}{9}{Structures}{34}
+\tocentry{2}{9.1}{Default initializations}{35}
+\tocentry{2}{9.2}{\q{defstruct} defined}{36}
+\tocentry{1}{10}{Alists and tables}{37}
+\tocentry{1}{11}{System interface}{39}
+\tocentry{2}{11.1}{Checking for and deleting files}{40}
+\tocentry{2}{11.2}{Calling operating-system commands}{40}
+\tocentry{2}{11.3}{Environment variables}{40}
+\tocentry{1}{12}{Objects and classes}{41}
+\tocentry{2}{12.1}{A simple object system}{42}
+\tocentry{2}{12.2}{Classes are instances too}{46}
+\tocentry{2}{12.3}{Multiple inheritance}{47}
+\tocentry{1}{13}{Jumps}{48}
+\tocentry{2}{13.1}{\q{call-with-current-continuation}}{49}
+\tocentry{2}{13.2}{Escaping continuations}{50}
+\tocentry{2}{13.3}{Tree matching}{51}
+\tocentry{2}{13.4}{Coroutines}{52}
+\tocentry{3}{13.4.1}{Tree-matching with coroutines}{53}
+\tocentry{1}{14}{Nondeterminism}{54}
+\tocentry{2}{14.1}{Description of \q{amb}}{55}
+\tocentry{2}{14.2}{Implementing \q{amb} in Scheme}{56}
+\tocentry{2}{14.3}{Using \q{amb} in Scheme}{57}
+\tocentry{2}{14.4}{Logic puzzles}{58}
+\tocentry{3}{14.4.1}{The Kalotan puzzle}{58}
+\tocentry{3}{14.4.2}{Map coloring}{60}
+\tocentry{1}{15}{Engines}{62}
+\tocentry{2}{15.1}{The clock}{63}
+\tocentry{2}{15.2}{Flat engines}{64}
+\tocentry{2}{15.3}{Nestable engines}{65}
+\tocentry{1}{16}{Shell scripts}{67}
+\tocentry{2}{16.1}{Hello, World!, again}{68}
+\tocentry{2}{16.2}{Scripts with arguments}{69}
+\tocentry{2}{16.3}{Example}{70}
+\tocentry{1}{17}{CGI scripts}{71}
+\tocentry{2}{17.1}{Example: Displaying environment variables}{72}
+\tocentry{2}{17.2}{Example: Displaying selected environment variable}{74}
+\tocentry{2}{17.3}{CGI script utilities}{75}
+\tocentry{2}{17.4}{A calculator via CGI}{79}
+\tocentry{1}{\char 65}{Scheme dialects}{80}
+\tocentry{2}{\char 65.1}{Invocation and init files}{81}
+\tocentry{2}{\char 65.2}{Shell scripts}{82}
+\tocentry{2}{\char 65.3}{\q{define-macro}}{82}
+\tocentry{2}{\char 65.4}{\q{load-relative}}{83}
+\tocentry{1}{\char 66}{DOS batch files in Scheme}{84}
+\tocentry{1}{\char 67}{Numerical techniques}{86}
+\tocentry{2}{\char 67.1}{Simpson's rule}{87}
+\tocentry{2}{\char 67.2}{Adaptive interval sizes}{89}
+\tocentry{2}{\char 67.3}{Improper integrals}{91}
+\tocentry{1}{\char 68}{A clock for infinity}{92}
+\tocentry{1}{\char 69}{References}{95}
+\tocentry{1}{\char 70}{Index}{97}
